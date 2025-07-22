@@ -10,40 +10,33 @@ MySQL 뿌수기! 🔥
 
 ## 스터디 구성원
 
-<table>
-  <tr height="160px">
-    <td align="center" width="150px">
-      <img height="110px" src=""/>
-    </td>
-    <td align="center" width="150px">
-      <img height="110px" src=""/>
-    </td>
-    <td align="center" width="150px">
-      <img height="110px" src=""/>
-    </td>
-    <td align="center" width="150px">
-      <img height="110px" src=""/>
-    </td>
-    <td align="center" width="150px">
-      <img height="110px" src=""/>
-    </td>
-    <td align="center" width="150px">
-      <img height="110px" src=""/>
-    </td>
-    <td align="center" width="150px">
-      <img height="110px" src="https://avatars.githubusercontent.com/u/128347728?v=4"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><a href=""><strong>민세희</strong></a></td>
-    <td align="center"><a href=""><strong>엄준서</strong></a></td>
-    <td align="center"><a href=""><strong>이하람</strong></a></td>
-    <td align="center"><a href=""><strong>이지민</strong></a></td>
-    <td align="center"><a href=""><strong>이지용</strong></a></td>
-    <td align="center"><a href=""><strong>이주원</strong></a></td>
-    <td align="center"><a href="https://github.com/jiy0-0nv"><strong>정지윤</strong></a></td>
-  </tr>
-</table>
+<ul>
+  <li>
+    <a href="https://github.com/jungin7612"><strong>김정인</strong></a>
+  </li>
+  <li>
+    <a href="https://github.com/min-sehee"><strong>민세희</strong></a>
+  </li>
+  <li>
+    <a href="https://github.com/Eoo0m"><strong>엄준서</strong></a>
+  </li>
+  <li>
+    <a href="https://github.com/rammmaa"><strong>이하람</strong></a>
+  </li>
+  <li>
+    <a href="https://github.com/jimiracle"><strong>이지민</strong></a>
+  </li>
+  <li>
+    <a href="https://github.com/jiyongleex"><strong>이지용</strong></a>
+  </li>
+  <li>
+    <a href="https://github.com/yeejuwon"><strong>이주원</strong></a>
+  </li>
+  <li>
+    <a href="https://github.com/jiy0-0nv"><strong>정지윤</strong></a>
+  </li>
+</ul>
+
 
 
 
@@ -54,7 +47,7 @@ MySQL 뿌수기! 🔥
 
 ## 회차별 일정
 
-* **1회차**   2025‑07‑25 (Fri) 17:00 – 1공학관 1층 로비<br>
+* **1회차**   2025‑07‑25 (Fri) 17:00 – 1공학관 마호가니<br>
     범위 : Ch.4 아키텍처 – 4.1 MySQL 엔진 아키텍처 (Ch.1‑3은 사전 읽기)
 * **2회차**   (일정 조율 예정)
 * **3회차**   (일정 조율 예정)
